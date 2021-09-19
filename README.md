@@ -8,7 +8,7 @@ Href and Src Attributes Convert to Array
 
 <hr />
 
-<p  align="center">I once had to convert `src` and `href` attributes into arrays when using Yii2 Framework.</p>
+<p  align="center">I once had to convert <b>src</b> and <b>href</b> attributes into arrays when using Yii2 Framework.</p>
 
 
   <p align="center">
