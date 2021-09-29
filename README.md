@@ -17,7 +17,7 @@ Href and Src Attributes Convert to Array
 
 ## 📖 About
 
-I once had to convert `src` and `src` attributes into arrays when using Yii2 Framework.
+I once had to convert `src` and `href` attributes into arrays when using Yii2 Framework.
 
 
 ### ⚙️ How To Use
